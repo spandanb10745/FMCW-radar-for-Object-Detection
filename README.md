@@ -132,4 +132,18 @@ Clean isolation of human movement (walking towards and away from the radar) with
 4.  **Millimeter Wave (mmWave):** Scaling to 24 GHz, 60 GHz, or 77 GHz ISM bands for vastly improved range resolution and phased array Angle of Arrival (AoA) capabilities.
 
 ---
+## 📚 References
+1. **Instructables:** *FMCW Radar With 3D Printed Antennas.* Available at: [Instructables Guide](https://www.instructables.com/FMCW-Radar-With-3D-Printed-Antennas/)
+2. **Constantine A. Balanis:** *Antenna Theory: Analysis and Design.* Wiley.
+3. **Paul Horowitz and Winfield Hill:** *The Art of Electronics.* Cambridge University Press.
 
+---
+
+## 🤝 Acknowledgements
+We would like to express our sincere gratitude to **Prof. Mahima Arrawatia**, Assistant Professor at IIT Guwahati, for her invaluable guidance, support, and mentorship, which were instrumental in making this project a success.
+
+---
+
+## 👥 Authors
+* **Spandan Bharadwaj** (Roll No. 230102108)
+* **Shreyas Sagar** (Roll No. 230102118)
